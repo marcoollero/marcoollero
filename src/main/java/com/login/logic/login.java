@@ -9,7 +9,7 @@ import java.sql.*;
 
 public class login {
     public boolean loginQuery(Login userData) throws SQLException {
-        boolean init = true;
+        boolean init = true; //Check code
         Statement stmt=getConnection().createStatement();
         String query = "select * from login where userid = " + userData.getUserID() + " and password = " + userData.getPassword();
         ResultSet rs=stmt.executeQuery(query);
