@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a82ab2-b645-40c5-9805-e0fb4d5f592b" name="Changes" comment="" />
+    <list default="true" id="30a82ab2-b645-40c5-9805-e0fb4d5f592b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Cake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Choco.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/CookieCream-popsicles-square.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Homemade-Strawberry-Ice-Cream-19-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Ice-Cream-Sundae-Bar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Milk+Bread+Ice+Cream+Sandwich_melty+sandwich+side+view.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Oreo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Pandan-Ice-Cream-Takestwoeggs-final-photography-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Strawberry_ice_cream_cone_(5076899310).jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Ube_Ice_Cream_(Philippines)_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/ice-cream-cup-white-Zel2wZA-600.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/images.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/istockphoto-1334291033-612x612.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/login/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces2.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces3.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces3.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces4.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces4.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces5.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces5.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterfaces/UserInterfaces.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterfaces/UserInterfaces2.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterfaces/UserInterfaces3.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterfaces/UserInterfaces4.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterfaces/UserInterfaces5.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/login/LogInForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/login/LogInForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/login/controller/LogInController.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,12 +84,17 @@
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Noah/OneDrive/Desktop/Nobody's gonna know/marcoollero/src/main/resources/images&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Noah\OneDrive\Desktop\Nobody's gonna know\marcoollero\src\main\resources\images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Noah\OneDrive\Desktop\Nobody's gonna know\marcoollero\src" />
     </key>
