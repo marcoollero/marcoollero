@@ -4,43 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a82ab2-b645-40c5-9805-e0fb4d5f592b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/login/controller/hpcontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/login/controller/menucontroller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Cake.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Choco.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/CookieCream-popsicles-square.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Homemade-Strawberry-Ice-Cream-19-2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Ice-Cream-Sundae-Bar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Milk+Bread+Ice+Cream+Sandwich_melty+sandwich+side+view.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Oreo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Pandan-Ice-Cream-Takestwoeggs-final-photography-1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Strawberry_ice_cream_cone_(5076899310).png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/Ube_Ice_Cream_(Philippines)_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/ice-cream-cup-white-Zel2wZA-600.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/images.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/istockphoto-1334291033-612x612.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/marshmallow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/images/sprinkle.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_05_2024_10_21_pm__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_04_05_2024_10_21_pm__Changes_.xml" afterDir="false" />
+    <list default="true" id="30a82ab2-b645-40c5-9805-e0fb4d5f592b" name="Changes" comment="&quot;changes to the UI&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/login/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces2.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Cake.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Choco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/CookieCream-popsicles-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Homemade-Strawberry-Ice-Cream-19-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Ice-Cream-Sundae-Bar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Milk+Bread+Ice+Cream+Sandwich_melty+sandwich+side+view.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Oreo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Pandan-Ice-Cream-Takestwoeggs-final-photography-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Strawberry_ice_cream_cone_(5076899310).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/Ube_Ice_Cream_(Philippines)_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/ice-cream-cup-white-Zel2wZA-600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/images/istockphoto-1334291033-612x612.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,9 +103,20 @@
       <option name="presentableId" value="Default" />
       <updated>1714658710703</updated>
     </task>
+    <task id="LOCAL-00001" summary="&quot;changes to the UI&quot;">
+      <option name="closed" value="true" />
+      <created>1716541541073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716541541073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="&quot;changes to the UI&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;changes to the UI&quot;" />
   </component>
 </project>

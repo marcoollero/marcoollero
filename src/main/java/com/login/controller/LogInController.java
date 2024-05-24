@@ -1,5 +1,6 @@
 package com.login.controller;
 
+import com.login.Main;
 import com.login.logic.login;
 import com.login.model.Login;
 import javafx.event.ActionEvent;
@@ -21,19 +22,26 @@ public class LogInController {
     private TextField usernameField;
     @FXML
     private TextField passwordField;
-   
-    }
-}
-
     @FXML
-    public void onLoginButtonClick(ActionEvent actionEvent) throws SQLException {
-        Login userData = new Login(usernameField.getText(),passwordField.getText());
-        login loginLogic = new login();
-        if (!loginLogic.loginQuery(userData)) {
-            actionEvent.setText("Password is incorrect");
-        } else {
-            actionEvent.setText("Password is correct");
-        }
+    private Button signinbutton;
+
+
+    public void setSigninbutton(ActionEvent e) throws Exception {
+        FXMLLoader fxmlLoader = new FXMLLoader(Main.class.getResource("Userinterfaces2.fxml"));
+        Stage window = (Stage) signinbutton.getScene().getWindow();
+        window.setScene(new Scene(fxmlLoader.load(), 600, 400));
 
     }
 }
+
+    //public void onLoginButtonClick(ActionEvent actionEvent) throws SQLException {
+        //Login userData = new Login(usernameField.getText(),passwordField.getText());
+        //login loginLogic = new login();
+        //if (!loginLogic.loginQuery(userData)) {
+            //actionEvent.setText("Password is incorrect");
+        //} else {
+            //actionEvent.setText("Password is correct");
+        //}
+
+    //}
+//}
