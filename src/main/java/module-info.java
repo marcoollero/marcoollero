@@ -3,17 +3,17 @@ module com.login {
     requires javafx.fxml;
     requires java.sql;
 
-    opens com.login to javafx.fxml;
-    exports com.login;
-    exports com.login.controller;
-    opens com.login.controller to javafx.fxml;
+    opens comlogin to javafx.fxml;
+    exports comlogin;
+    exports comlogin.controller;
+    opens comlogin.controller to javafx.fxml;
 
-    opens com.login.logic to javafx.fxml;
-    exports com.login.logic;
+    opens comlogin.logic to javafx.fxml;
+    exports comlogin.logic;
 
-    opens com.login.utilities to javafx.fxml;
-    exports com.login.utilities;
+    opens comlogin.utilities to javafx.fxml;
+    exports comlogin.utilities;
 
-    opens com.login.model to javafx.fxml;
-    exports com.login.model;
+    opens comlogin.model to javafx.fxml;
+    exports comlogin.model;
 }

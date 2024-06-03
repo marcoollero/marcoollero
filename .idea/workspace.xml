@@ -4,10 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="30a82ab2-b645-40c5-9805-e0fb4d5f592b" name="Changes" comment="&quot;changes to the UI&quot;">
+    <list default="true" id="30a82ab2-b645-40c5-9805-e0fb4d5f592b" name="Changes" comment="&quot;added images&quot;">
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/LogInController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/comlogin/LogInForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/hpcontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/menucontroller.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/logic/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/logic/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/model/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/model/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/utilities/dbConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/utilities/dbConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces2.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/login/LogInForm.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/login/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/login/logic/login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/login/model/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/login/utilities/dbConnector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Cake.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Choco.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/CookieCream-popsicles-square.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Homemade-Strawberry-Ice-Cream-19-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Ice-Cream-Sundae-Bar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Milk+Bread+Ice+Cream+Sandwich_melty+sandwich+side+view.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Oreo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Pandan-Ice-Cream-Takestwoeggs-final-photography-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Strawberry_ice_cream_cone_(5076899310).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/Ube_Ice_Cream_(Philippines)_02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/ice-cream-cup-white-Zel2wZA-600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/images/istockphoto-1334291033-612x612.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,12 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716541541073</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="&quot;added images&quot;">
+      <option name="closed" value="true" />
+      <created>1716545847045</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1716545847045</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="&quot;changes to the UI&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;changes to the UI&quot;" />
+    <MESSAGE value="&quot;added images&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot;added images&quot;" />
   </component>
 </project>
