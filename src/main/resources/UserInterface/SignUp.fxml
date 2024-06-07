@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comlogin.controller.SignUpController">
+   <children>
+      <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" style="-fx-background-color: #e0ffff;">
+         <children>
+            <AnchorPane prefHeight="400.0" prefWidth="207.0" style="-fx-background-color: #add8e6;">
+               <children>
+                  <Label alignment="CENTER" layoutX="4.0" layoutY="196.0" prefHeight="48.0" prefWidth="198.0" text="UserName:">
+                     <font>
+                        <Font name="Cooper Black" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="4.0" layoutY="244.0" prefHeight="48.0" prefWidth="198.0" text="Password:">
+                     <font>
+                        <Font name="Cooper Black" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="7.0" layoutY="148.0" prefHeight="48.0" prefWidth="198.0" text="Last Name:">
+                     <font>
+                        <Font name="Cooper Black" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="7.0" layoutY="100.0" prefHeight="48.0" prefWidth="198.0" text="First Name:">
+                     <font>
+                        <Font name="Cooper Black" size="24.0" />
+                     </font>
+                  </Label>
+                  <Label alignment="CENTER" layoutX="14.0" layoutY="303.0" prefHeight="25.0" prefWidth="180.0" text="Already a member?">
+                     <font>
+                        <Font name="Century" size="18.0" />
+                     </font>
+                  </Label>
+                  <Button fx:id="loginswitchbutton" layoutX="56.0" layoutY="333.0" mnemonicParsing="false" onAction="#onloginswitchbuttonclick" prefHeight="31.0" prefWidth="98.0" text="Log in" />
+               </children>
+            </AnchorPane>
+            <Label alignment="CENTER" layoutX="201.0" layoutY="26.0" prefHeight="48.0" prefWidth="198.0" text="Sign Up Form:">
+               <font>
+                  <Font name="Cooper Black" size="24.0" />
+               </font>
+            </Label>
+            <TextField layoutX="226.0" layoutY="116.0" prefHeight="25.0" prefWidth="269.0" />
+            <TextField layoutX="226.0" layoutY="161.0" prefHeight="25.0" prefWidth="269.0" />
+            <TextField layoutX="226.0" layoutY="207.0" prefHeight="25.0" prefWidth="269.0" />
+            <PasswordField layoutX="228.0" layoutY="251.0" prefHeight="25.0" prefWidth="269.0" />
+            <Button fx:id="signupbutton" layoutX="312.0" layoutY="324.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="98.0" text="Sign Up" />
+         </children>
+      </AnchorPane>
+   </children>
+</Pane>

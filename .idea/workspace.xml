@@ -5,40 +5,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="30a82ab2-b645-40c5-9805-e0fb4d5f592b" name="Changes" comment="&quot;added images&quot;">
-      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/LogInController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/comlogin/LogInForm.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/AboutUsController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/HomepageController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/MenuController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/ProfileController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/SignUpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/logic/menulogic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/logic/signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/model/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/comlogin/model/Signup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/AboutUs.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/Checkoutmenu.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/Profile.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/SignUp.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/LogInController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/hpcontroller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/controller/menucontroller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/logic/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/logic/login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/model/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/model/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/login/utilities/dbConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/utilities/dbConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/com/login/LogInForm.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces2.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/login/LogInForm.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/login/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/login/logic/login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/login/model/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/login/utilities/dbConnector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Cake.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Choco.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/CookieCream-popsicles-square.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Homemade-Strawberry-Ice-Cream-19-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Ice-Cream-Sundae-Bar.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Milk+Bread+Ice+Cream+Sandwich_melty+sandwich+side+view.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Oreo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Pandan-Ice-Cream-Takestwoeggs-final-photography-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Strawberry_ice_cream_cone_(5076899310).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/Ube_Ice_Cream_(Philippines)_02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/ice-cream-cup-white-Zel2wZA-600.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/images.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/images/istockphoto-1334291033-612x612.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comlogin/controller/LogInController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/controller/LogInController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comlogin/logic/login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/logic/login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/comlogin/utilities/dbConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/comlogin/utilities/dbConnector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/Homepage.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces2.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces3.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces4.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/UserInterface/UserInterfaces5.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/comlogin/LogInForm.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/comlogin/LogInForm.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces2.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/UserInterface/Menu.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces3.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces4.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/UserInterface/UserInterfaces5.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/comlogin/controller/LogInController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comlogin/controller/LogInController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/comlogin/logic/login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comlogin/logic/login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/comlogin/utilities/dbConnector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/comlogin/utilities/dbConnector.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

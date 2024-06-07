@@ -5,9 +5,9 @@ public class dbConnector {
     /** The Oracle driver. */
     public static final String ORACLE_DRIVER = "oracle.jdbc.driver.OracleDriver";
     /** The connection URL. */
-    public static final String dbUrl = "jdbc:oracle:thin:@localhost:1521:XE";
+    public static final String dbUrl = "jdbc:oracle:thin:@localhost:1521/orcl";
     /** The username used to connect to the database. */
-    public static final String username = "sys";
+    public static final String username = "System";
     /** The password used to connect to the database. */
     public static final String password = "robobogz00";
 

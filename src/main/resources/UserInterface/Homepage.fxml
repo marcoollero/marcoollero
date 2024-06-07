@@ -41,23 +41,23 @@
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.text.Font?>
 
-<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+<StackPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="800.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="comlogin.controller.HomepageController">
    <children>
       <BorderPane prefHeight="200.0" prefWidth="200.0">
          <left>
             <AnchorPane prefHeight="500.0" prefWidth="226.0" style="-fx-background-color: violet;" BorderPane.alignment="CENTER">
                <children>
-                  <Button layoutX="11.0" layoutY="171.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="195.0" text="Menu">
+                  <Button fx:id="menubutton" layoutX="11.0" layoutY="171.0" mnemonicParsing="false" onAction="#onmenubuttonclick" prefHeight="40.0" prefWidth="195.0" text="Menu">
                      <font>
                         <Font name="Cambria" size="20.0" />
                      </font>
                   </Button>
-                  <Button layoutX="11.0" layoutY="236.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="195.0" text="Profile">
+                  <Button fx:id="profilebutton" layoutX="11.0" layoutY="236.0" mnemonicParsing="false" onAction="#onprofilebuttonclick" prefHeight="40.0" prefWidth="195.0" text="Profile">
                      <font>
                         <Font name="Cambria" size="20.0" />
                      </font>
                   </Button>
-                  <Button layoutX="11.0" layoutY="299.0" mnemonicParsing="false" prefHeight="40.0" prefWidth="195.0" text="About Us">
+                  <Button fx:id="aboutusbutton" layoutX="11.0" layoutY="299.0" mnemonicParsing="false" onAction="#onaboutusbuttonclick" prefHeight="40.0" prefWidth="195.0" text="About Us">
                      <font>
                         <Font size="20.0" />
                      </font>
